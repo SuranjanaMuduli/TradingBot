@@ -24,8 +24,8 @@ pip install -r requirements.txt
 
 ### 2. Set up your `.env` file  
 Create a .env file and add necessary configurations mentioned in Example.env data.
-Find your API key and API secret from the  
-[Binance Futures Testnet](https://testnet.binancefuture.com)
+
+Find your API key and API secret from the  [Binance Futures Testnet](https://testnet.binancefuture.com)
 
 ### 3. Run the bot
 ```bash
