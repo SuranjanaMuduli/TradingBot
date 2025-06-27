@@ -20,6 +20,7 @@ Built with `python-binance` and structured for clarity, logging, and reusability
 ### 1. 📦 Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. Set up your `.env` file  
 Create a .env file and add necessary configurations mentioned in Example.env data.
@@ -29,3 +30,4 @@ Find your API key and API secret from the
 ### 3. Run the bot
 ```bash
 python trading_bot.py
+```
